@@ -1,3 +1,4 @@
+package utubePractice;
 import java.util.Arrays;
 
 public class day1_1 {
