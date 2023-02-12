@@ -68,7 +68,7 @@ public class day1 {
    System.out.println(Arrays.toString(str));
 
    //modify
-   str[1] = "sid"; // beech ma change karre haiii
+   str[1] = "sid"; // beech ma change karre haiiiiii
    System.out.println(Arrays.toString(str));
 
 }
