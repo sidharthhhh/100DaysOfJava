@@ -1,3 +1,4 @@
+package oldcode;
 public class perfectNo{
     public static void main(String[] args) {
         int num=3;

@@ -1,3 +1,4 @@
+package oldcode;
 class reversearray{
     public static void main(String[] args) {
         // iterative approch
