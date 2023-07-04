@@ -1,5 +1,5 @@
 package sorting;
-import java.util.*;
+
 class insersion {
 
     static void printArray(int arr[]) {
