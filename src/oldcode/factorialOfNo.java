@@ -1,3 +1,4 @@
+package oldcode;
 public class factorialOfNo {
 
     public static int factorial(int n){

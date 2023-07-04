@@ -1,3 +1,4 @@
+package oldcode;
 public class perfectSquare {
 
     static boolean isperfectsquare(int x){
